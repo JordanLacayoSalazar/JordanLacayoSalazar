@@ -1,16 +1,49 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://mark.sylphx.com/api/v1/mark/hero.svg?text=sudo+code+without+limits%21&desc=Building+dependency+learning...&type=terminal&color=000917,0000ff&layout=left&animation=rise&font=mono" alt="sudo code without limits!" />
+</p>
 
-<!--
-**JordanLacayoSalazar/JordanLacayoSalazar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My stats:
+<div align="center">
+  <img src="https://www.readmecodegen.com/api/github-stats/svg?username=JordanLacayoSalazar" height="300" />
+  <img src="https://www.readmecodegen.com/api/github-stats/svg?username=JordanLacayoSalazar&cardType=langs" height="300" />
+</div>
+<div align="center">
+  <img src="https://mark.sylphx.com/trophy.svg?username=JordanLacayoSalazar&theme=github_dark&hide_border=true" height="300" />
+</div>
+<br>
 
-Here are some ideas to get you started:
+## What I'm currently learning:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages:
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="50" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" alt="Java"/>
+  <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/500px-C_Programming_Language.svg.png" width="50" alt="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="50" alt="Microsoft SQL Server"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/haskell/haskell-original.svg" width="50" alt="Haskell"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prolog/prolog-original.svg" width="50" alt="Prolog"/>
+</p>
+
+### Tools and frameworks:
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="50" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" width="50" alt="NodeJS"/>
+  <img src="https://github.com/user-attachments/assets/7f18cf4f-892f-405c-914b-e0cda220cc9d" width="50" alt="express"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="50" alt="Node Package Manager"/>       
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" width="50" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width="50" alt="Ubuntu"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" alt="Git"/>
+</p>      
+          
+
+          
+          
+          
+          
+          
+          
+          
+          
+
