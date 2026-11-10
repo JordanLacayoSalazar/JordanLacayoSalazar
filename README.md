@@ -8,10 +8,10 @@
   <img src="https://www.readmecodegen.com/api/github-stats/svg?username=JordanLacayoSalazar&cardType=langs" height="300" />
 </div>
 <div align="center">
-  <img src="https://mark.sylphx.com/streak.svg?username=JordanLacayoSalazar&theme=github_dark&hide_border=true" height="300" />
+  <img src="https://mark.sylphx.com/streak.svg?username=JordanLacayoSalazar&theme=github_dark" height="300" />
 </div>
 <div align="center">
-  <img src="https://mark.sylphx.com/trophy.svg?username=JordanLacayoSalazar&theme=github_dark&hide_border=true" height="300" />
+  <img src="https://mark.sylphx.com/trophy.svg?username=JordanLacayoSalazar&theme=github_dark&" height="300" />
 </div>
 <br>
 
